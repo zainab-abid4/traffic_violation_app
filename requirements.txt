@@ -2,11 +2,11 @@ streamlit
 huggingface_hub
 torch
 transformers
-tensorflow-cpu
+tensorflow
 ultralytics
 faiss-cpu
 sentence-transformers
 scikit-learn
 reportlab
 Pillow
-numpy
+numpy 
